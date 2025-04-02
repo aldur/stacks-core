@@ -16,8 +16,8 @@
     "chokidar-cli": "^3.0.0",
     "fast-check": "^3.18.0",
     "typescript": "^5.4.5",
-    "vite": "^5.2.10",
-    "vitest": "^1.5.2",
+    "vite": "^5.4.16",
+    "vitest": "^1.6.1",
     "vitest-environment-clarinet": "^2.1.0"
   }
 }
